@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82c4ea049bef8224dba1216c99351fb4, type: 3}
+  m_Name: SulfatorPig
+  m_EditorClassIdentifier: Assembly-CSharp::TileClass
+  tileName: pigGun
+  tileSprite: {fileID: -5792511334730316588, guid: 0066610690018e140b99d99c92b994a7,
+    type: 3}
+  isSword: 1
+  description: "\xE7a tranche"
+  tilePrefab: {fileID: 7571502992622515698, guid: 278ce54059a9dc74f9592c5f0094213b,
+    type: 3}
+  maxStack: 0
+  range: 0
+  damaged: 0
+  isStakable: 0
+  isGun: 1
+  isBoomerang: 0
+  autoPickup: 0
+  isAutoFire: 1
+  speedBalle: 10
+  balle: {fileID: 6924781494855400119, guid: 5bcbe5502bd564a49a0a6d9734365790, type: 3}
+  balleCount: 1
+  balleDelay: 0.2
+  knockback: 5
+  useSound: {fileID: 8300000, guid: 8d174237af368cb4ab9a7dcda6aa0e92, type: 3}
+  useSoundDuration: 1
+  useSoundOffset: 5
+  isConsumable: 0
+  healAmount: 0
+  addMaxHealth: 0
+  speedBoost: 0
+  speedBoostDuration: 0
+  damageBoost: 0
+  damageBoostDuration: 0
+  lightBoostDuration: 0

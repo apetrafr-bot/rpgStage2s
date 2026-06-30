@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 82c4ea049bef8224dba1216c99351fb4, type: 3}
+  m_Name: poitionVie 1
+  m_EditorClassIdentifier: Assembly-CSharp::TileClass
+  tileName: potion de Vie1
+  tileSprite: {fileID: -8419157238138717284, guid: 87c318976c5fd4542a07c770a76f4922,
+    type: 3}
+  isSword: 0
+  description: 
+  tilePrefab: {fileID: 7571502992622515698, guid: 5a24a32bbb2089f4d9e7cfd8fd60407c,
+    type: 3}
+  maxStack: 10
+  range: 0
+  damaged: 0
+  isStakable: 0
+  isGun: 0
+  isBoomerang: 0
+  autoPickup: 0
+  isAutoFire: 0
+  speedBalle: 0
+  balle: {fileID: 0}
+  balleCount: 1
+  balleDelay: 0.3
+  knockback: 0
+  useSound: {fileID: 0}
+  useSoundDuration: 0
+  useSoundOffset: 0
+  isConsumable: 1
+  healAmount: 2
+  addMaxHealth: 0
+  speedBoost: 0
+  speedBoostDuration: 0
+  damageBoost: 0
+  damageBoostDuration: 0
